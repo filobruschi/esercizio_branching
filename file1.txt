@@ -1,2 +1,5 @@
 pesca 
 mela
+banana
+cereali
+pasta
