@@ -12,3 +12,4 @@ pere
 succo
 zucchero
 sale
+patate
