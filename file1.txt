@@ -7,4 +7,5 @@ pesce
 carne
 vino
 verdura 
-
+piselli
+succo
