@@ -6,3 +6,5 @@ pasta
 pesce 
 carne
 vino
+verdura 
+
