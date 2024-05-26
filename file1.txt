@@ -8,3 +8,4 @@ carne
 vino
 verdura 
 piselli
+pere
