@@ -3,3 +3,6 @@ mela
 banana
 cereali
 pasta
+pesce 
+carne
+vino
