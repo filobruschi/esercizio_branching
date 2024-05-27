@@ -11,3 +11,4 @@ piselli
 succo
 acqua
 sale
+olio
