@@ -8,11 +8,4 @@ carne
 vino
 verdura 
 piselli
-pere
 succo
-zucchero
-sale
-patate
-formaggio
-olio
-pomodoro
