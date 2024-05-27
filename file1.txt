@@ -10,3 +10,4 @@ verdura
 piselli
 succo
 acqua
+sale
